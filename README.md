@@ -52,7 +52,8 @@
 *   **局限性**：有效视差比例仅代表算法给出结果的像素占比，**不代表准确率**。后续计划引入带真值深度的数据集（如 KITTI 深度补全数据）计算 RMSE 等误差指标。
 
 *(请在此处放入 blockSize=5 和 9 的视差图对比)*
-<img width="1242" height="375" alt="image" src="https://github.com/user-attachments/assets/e09e884e-5928-4fc5-bdc2-842ff8a7929c" />
+![Uploading image.png…]()
+
 <!-- 示例：![SGBM视差图对比](assets/sgbm_comparison.png) -->
 
 ---
