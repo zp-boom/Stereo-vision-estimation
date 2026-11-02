@@ -22,6 +22,8 @@
 4.  **可视化**：将距离信息渲染在图像上。
 
 *(请在此处放入你跑通的、修复了文字重叠问题的效果图)*
+<img width="2484" height="375" alt="image" src="https://github.com/user-attachments/assets/13eb9b9a-5dc8-4f59-aa68-4520c0ac5086" />
+
 <!-- 示例：![单目测距Demo](assets/mono_demo_result.jpg) -->
 
 ### 局限性反思
