@@ -22,7 +22,8 @@
 4.  **可视化**：将距离信息渲染在图像上。
 
 *(请在此处放入你跑通的、修复了文字重叠问题的效果图)*
-<img width="2484" height="375" alt="image" src="https://github.com/user-attachments/assets/13eb9b9a-5dc8-4f59-aa68-4520c0ac5086" />
+<img width="1242" height="375" alt="yolo_stereo_distance (1)" src="https://github.com/user-attachments/assets/1ad396a4-016c-42d6-b330-593dfccae5c2" />
+
 
 <!-- 示例：![单目测距Demo](assets/mono_demo_result.jpg) -->
 
@@ -54,9 +55,8 @@
 *   **局限性**：有效视差比例仅代表算法给出结果的像素占比，**不代表准确率**。后续计划引入带真值深度的数据集（如 KITTI 深度补全数据）计算 RMSE 等误差指标。
 
 *(请在此处放入 blockSize=5 和 9 的视差图对比)*
-<img width="2484" height="375" alt="image" src="https://github.com/user-attachments/assets/13eb9b9a-5dc8-4f59-aa68-4520c0ac5086" />
+<img width="1242" height="375" alt="image" src="https://github.com/user-attachments/assets/3fea5b9f-bc60-42dc-a98e-ff0c743a0d53" />
 
-<!-- 示例：![SGBM视差图对比](assets/sgbm_comparison.png) -->
 
 ---
 
